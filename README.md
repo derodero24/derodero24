@@ -14,3 +14,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derodero24&layout=compact&langs_count=6&theme=radical)
 ![derodero24's GitHub stats](https://github-readme-stats.vercel.app/api?username=derodero24&show_icons=true&count_private=true&theme=radical)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=derodero24&theme=discord)
