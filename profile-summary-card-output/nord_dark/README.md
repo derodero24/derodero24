@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/nord_dark/4-productive-time.svg)
+```
+
+    
