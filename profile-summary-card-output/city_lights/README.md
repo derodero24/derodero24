@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/city_lights/4-productive-time.svg)
-```
-
-    
