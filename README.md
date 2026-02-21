@@ -1,88 +1,67 @@
-<p align="left">
-  <a href="https://github.com/derodero24">
-    <img src="https://komarev.com/ghpvc/?username=derodero24" alt="derodero24" />
-  </a>
-  <a href="https://qiita.com/derodero24">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/derodero24/contributions.svg" />
-  </a>
-</p>
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=derodero24&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Blockchain+%26+Web3+Enthusiast)](https://git.io/typing-svg)
 
-[![](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://github.com/derodero24">
+  <img src="https://komarev.com/ghpvc/?username=derodero24&style=flat-square&color=blue" alt="Profile views"/>
+</a>
+<a href="https://qiita.com/derodero24">
+  <img height="20" src="https://qiita-badge.apiapi.app/s/derodero24/contributions.svg" alt="Qiita contributions"/>
+</a>
 
-<h3 align="left">Languages</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/>
-  </a>
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" height="40"/>
-  </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="java" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/ja-jp/office/vba/api/overview/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="VBA" height="40"/>
-  </a>
-</p>
+</div>
 
-<h3 align="left">Tools and Frameworks</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40"/>
-  </a>
-  <a href="https://capacitorjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/capacitor-js.svg" alt="capacitor" height="40"/>
-  </a>
-  <a href="https://rocket.rs/" target="_blank" rel="noreferrer">
-    <img src="https://rocket.rs/images/logo-boxed.png" alt="Rocket.rs" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" alt="aws" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="40"/>
-  </a>
-</p>
+---
+
+## Tech Stack
+
+<div align="center">
+
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,rust,solidity,java,dart)](https://skillicons.dev)
+
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,flask,flutter,pytorch)](https://skillicons.dev)
+
+[![Infrastructure](https://skillicons.dev/icons?i=aws,docker,mysql)](https://skillicons.dev)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=derodero24&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=derodero24&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=derodero24&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+[![Profile Details](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Repos Per Language](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Most Commit Language](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Stats](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Productive Time](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=derodero24&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/derodero24/derodero24/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/derodero24/derodero24/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/derodero24/derodero24/output/github-snake.svg"/>
+  </picture>
+</div>
