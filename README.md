@@ -7,7 +7,7 @@
   </a>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=derodero24&theme=discord)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=derodero24&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
