@@ -17,11 +17,11 @@
 
 <div align="center">
 
-[![Languages](https://skillicons.dev/icons?i=ts,js,py,rust,solidity,java,dart)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,solidity,rust,py)](https://skillicons.dev)
 
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,flask,flutter,pytorch)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,flutter,pytorch)](https://skillicons.dev)
 
-[![Infrastructure](https://skillicons.dev/icons?i=aws,docker,mysql)](https://skillicons.dev)
+[![Infrastructure](https://skillicons.dev/icons?i=aws,docker,postgres,cloudflare,terraform)](https://skillicons.dev)
 
 </div>
 
