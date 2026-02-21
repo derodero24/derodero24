@@ -30,13 +30,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=derodero24&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=derodero24&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
-</div>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=derodero24&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=derodero24&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
@@ -49,14 +44,6 @@
 </div>
 
 ---
-
-## Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=derodero24&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 <div align="center">
   <picture>
