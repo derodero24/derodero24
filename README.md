@@ -42,9 +42,9 @@
 
 <div align="center">
 
-[![](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Profile Details](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Repos Per Language](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Most Commit Language](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Stats](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Productive Time](https://raw.githubusercontent.com/derodero24/derodero24/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
@@ -62,6 +62,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/derodero24/derodero24/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/derodero24/derodero24/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/derodero24/derodero24/output/github-snake-dark.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/derodero24/derodero24/output/github-snake.svg"/>
   </picture>
 </div>
