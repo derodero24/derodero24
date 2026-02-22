@@ -27,6 +27,33 @@
 
 ---
 
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">react-calculator</h3>
+      <p align="center">
+        <a href="https://github.com/derodero24/react-calculator">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=derodero24&repo=react-calculator&theme=tokyonight&hide_border=true" alt="react-calculator"/>
+        </a>
+      </p>
+      <p align="center">Interactive web calculator built with React, Redux, and Material-UI</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">react-web3-icons</h3>
+      <p align="center">
+        <a href="https://github.com/derodero24/react-web3-icons">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=derodero24&repo=react-web3-icons&theme=tokyonight&hide_border=true" alt="react-web3-icons"/>
+        </a>
+      </p>
+      <p align="center">Web3 cryptocurrency icon components for React applications</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
