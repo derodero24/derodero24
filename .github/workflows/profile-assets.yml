@@ -1,0 +1,71 @@
+name: Update profile assets
+
+# Regenerates every image the profile README embeds (summary cards + snake)
+# and force-pushes them to the `output` branch, so `main` stays free of
+# machine-generated commits.
+
+on:
+  schedule:
+    # 06:17 JST. Off the top of the hour to avoid the scheduler rush at :00.
+    - cron: "17 21 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/profile-assets.yml]
+
+permissions: {}
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write # push to the `output` branch
+
+    steps:
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@7022eb6bd48de38b092f54110a8ff8185f2ac4a1 # v0.13.0
+        env:
+          # PAT so the cards can include private contributions.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          TIME_ZONE: Asia/Tokyo
+          AUTO_PUSH: false
+
+      - name: Collect the card themes the README uses
+        shell: bash
+        run: |
+          set -euo pipefail
+          for theme in github github_dark; do
+            mkdir -p "dist/cards/${theme}"
+            for card in 2-most-commit-language 3-stats; do
+              src="profile-summary-card-output/${theme}/${card}.svg"
+              # Fail (and keep the previous `output` branch) if a card is missing.
+              test -s "${src}"
+              cp "${src}" "dist/cards/${theme}/"
+            done
+          done
+
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-snake.svg?palette=github-light
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+          jekyll: false
+          commit_message: Update profile assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
